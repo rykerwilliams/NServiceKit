@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/rykerwilliams/NServiceKit.svg?branch=linux)](https://travis-ci.org/rykerwilliams/NServiceKit)
 # NServiceKit is a FREE and Open Source fork of ServiceStack.
 
 Our goal is to keep the foundation for great REST Services on .NET free, open source and supported by the community.  Accepting pull requests, issues on github: [https://github.com/NServiceKit/NServiceKit]
